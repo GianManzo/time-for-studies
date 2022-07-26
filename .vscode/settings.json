@@ -1,0 +1,11 @@
+{
+  "git.enabled": true,
+  "files.exclude": {
+    "package.json":true,
+    "package-lock.json":true,
+    ".gitignore":true,
+    "tsconfig.json":true,
+    "public": true,
+    "node_modules":true,
+  }
+}
